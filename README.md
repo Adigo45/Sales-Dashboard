@@ -10,7 +10,7 @@ This repository hosts an interactive Sales Dashboard created using Tableau Deskt
 - **Performance Metrics:** Track KPIs to evaluate and improve sales strategies.
 
 ## View the Dashboard
-Access the interactive Sales Dashboard [here](https://username.github.io/sales-dashboard/).
+Access the interactive Sales Dashboard [here](https://adigo45.github.io/Sales-Dashboard/).
 
 ## About the Creator
 I am Aditya Thapa, a passionate data Scientist with expertise Data Science along with data visualization and business intelligence. Feel free to connect with me on [LinkedIn](www.linkedin.com/in/adityathapa45).
