@@ -1,6 +1,7 @@
 # Sales Dashboard
 
 This repository hosts an interactive Sales Dashboard created using Tableau Desktop. The dashboard provides comprehensive insights into sales performance across various dimensions.
+![Dashboard](Sales2.png)
 
 ## Features
 - **Interactive Visualizations:** Drill down into sales data by Total Sales, Sub-Category,Qunatity, Profit, and time period.
